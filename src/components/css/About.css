@@ -18,7 +18,13 @@
     font-size: 18px;
     margin: auto;
 }
-
+.about-content a{
+    color:#777;
+    text-decoration: none;
+}
+.about-content a:hover{
+    color:#fff;
+}
 .about-image {
     width: 150px;
     height: auto;
@@ -27,6 +33,7 @@
 .about-text {
     max-width: 600px;
     text-align: left;
+    color:#777;
 }
 .about-text a{
     margin-left:0;

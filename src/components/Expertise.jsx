@@ -8,7 +8,7 @@ import "./css/Expertise.css";
 
 const Expertise = () => {
   return (
-    <div className="expertise-container">
+    <section id="Expertise" className="expertise-container">
       <h1 className="title">Expertise</h1>
 
       <div className="icon-section">
@@ -68,7 +68,7 @@ const Expertise = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

@@ -3,7 +3,7 @@ import './css/Contact.css';
 
 const Contact = () => {
   return (
-    <div className="contact-container">
+    <section id="Contact" className="contact-container">
       <h1 className="contact-heading">Get In Touch</h1>
       <div className="contact-form-container">
         <form action="https://getform.io/f/axojmylb" method="POST" className="contact-form">
@@ -13,7 +13,7 @@ const Contact = () => {
           <button className="contact-button">Submit</button>
         </form>
       </div>
-    </div>
+    </section>
   );
 };
 

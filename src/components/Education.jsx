@@ -2,7 +2,7 @@ import React from "react";
 import './css/Education.css'
 const Education = () => {
   return (
-    <div className="education-container">
+    <section id="Education" className="education-container">
       <h1>Education</h1>
       <div className="education-content">
         <div className="education-text">
@@ -30,7 +30,7 @@ const Education = () => {
           </p>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

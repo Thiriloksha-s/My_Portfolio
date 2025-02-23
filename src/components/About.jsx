@@ -4,7 +4,7 @@ import './css/About.css';
 
 const About = () => {
   return (
-    <div className='about-container'>
+    <section id="About" className='about-container'>
       <div className="about-content">
         <img src={Picture} alt="Profile" />
         <div className="about-text">
@@ -23,7 +23,7 @@ const About = () => {
           </a>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

@@ -6,7 +6,7 @@ const Projects = () => {
   const [hover, setHover] = useState(null); 
 
   return (
-    <div className="projects-container">
+    <section id="Projects" className="projects-container">
       <h1 className="projects-title">Projects</h1>
 
       <div className="projects-list">
@@ -46,7 +46,7 @@ const Projects = () => {
           </div>
         ))}
       </div>
-    </div>
+    </section>
   );
 };
 
