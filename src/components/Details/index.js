@@ -9,7 +9,7 @@ export const PROJECTS = [
       image: project1,
       description:
         "A personal portfolio website built to display my skills, achievements, and projects. Crafted with a sleek, responsive design to provide an intuitive and seamless user experience.",
-      githubLink: "https://github.com/your-repo-link",
+      githubLink: "https://github.com/Thiriloksha-s/My_Portfolio",
       technologies: ["HTML", "CSS", "React"],
     },
     
