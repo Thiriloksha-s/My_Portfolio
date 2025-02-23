@@ -1,0 +1,11 @@
+*{
+  /*background-color: #080808;*/
+  padding:0;
+  margin:0;
+}
+body{
+  background: #06011e;
+  color:white;
+  overflow:hidden;
+  overflow-y:scroll;
+}

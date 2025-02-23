@@ -1,0 +1,47 @@
+.education-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.education-container h1 {
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.education-content {
+    display: flex;
+    justify-content: space-between; 
+    gap: 30px; 
+    flex-wrap: wrap;
+}
+
+.education-text {
+    min-width: 250px;
+    padding: 15px;
+    text-align: left;
+}
+
+.education-text h4 {
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.education-text p {
+    margin: 0;
+    font-size: 18px;
+    color: #777;
+    line-height: 1.6; 
+}
+
+
+
+
+
+
+  

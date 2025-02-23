@@ -1,0 +1,63 @@
+.expertise-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center; 
+  height: 100vh; 
+}
+
+.expertise-container h1 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.icon-section {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  gap: 20px;
+}
+
+.icon-section h4 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 25px;
+  display: flex; 
+  align-items: center;
+  white-space: nowrap; 
+  justify-content: center; 
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center; 
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.icon-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+  padding: 10px;
+}
+
+.icon {
+  font-size: 48px; 
+  margin-bottom: 8px;
+}
+
+.java { color: #007396; }
+.c { color: #A8B9CC; }
+.sql { color: #00758F; }
+.javascript { color: #F7DF1E; } 
+.html { color: #E34F26; }       
+.css { color: #1572B6; }       
+.react { color: #61DAFB; }    
+.git { color: #F05032; }       
+.github { color: #fff; }      
+.vscode { color: #007ACC; }
